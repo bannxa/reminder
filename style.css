@@ -1,0 +1,17 @@
+body
+{
+    background-color: black;
+}
+.color
+{
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+img
+{
+    border: 5px white solid;
+    width: 100%;
+}
